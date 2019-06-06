@@ -1,0 +1,35 @@
+Çocuðunuzun bilgisayarýnýzý kullanma biçimini yönetmeye yardýmcý olmak için Ebeveyn Denetimleri'ni kullanabilirsiniz. 
+Örneðin, çocuklarýnýzýn bilgisayarý kullanabilecekleri saatleri, oynayabilecekleri oyun türlerini ve çalýþtýrabilecekleri programlarý sýnýrlayabilirsiniz.
+
+
+Ebeveyn Denetimleri bir oyuna veya programa eriþimi engellediðinde, programýn engellendiðini bildiren bir uyarý görüntülenir. 
+Çocuðunuz söz konusu oyuna veya programa eriþim izni istemek için uyarýdaki baðlantýyý týklatabilir. Kendi hesap bilgilerinizi girerek eriþime izin verebilirsiniz.
+
+Çocuðunuza yönelik Ebeveyn Denetimleri'ni ayarlamak için kendi yönetici kullanýcý hesabýnýzý kullanmanýz gerekir. 
+Baþlamadan önce, Ebeveyn Denetimleri'ni ayarlamak istediðiniz her çocuðun standart bir kullanýcý hesabý olduðundan emin olun. 
+Ebeveyn Denetimleri yalnýzca standart kullanýcý hesaplarýna uygulanabilir. Kullanýcý hesaplarý ve bunlarý ayarlama hakkýnda daha fazla bilgi için bkz. 
+Kullanýcý hesabý nedir?
+
+Windows programýnýn saðladýðý denetimlere ek olarak web filtreleri veya etkinlik raporlarý gibi baþka denetimleri ayrý bir servis saðlayýcýdan yükleyebilirsiniz
+Daha fazla bilgi için bkz. Ebeveyn Denetimleri'ni nasýl ekleyebilirim?
+
+Standart kullanýcý hesabýna yönelik Ebeveyn Denetimleri’ni açmak için
+Ana Baba Denetimleri'ni açmak için týklatýn. ?  Yönetici parolasý veya onay istenirse, parolayý yazýn veya onay verin.
+
+Ebeveyn Denetimleri'ni ayarlamak istediðiniz standart kullanýcý hesabýný týklatýn. Standart kullanýcý hesabý henüz ayarlanmadýysa,
+yeni hesabý ayarlamak için Yeni kullanýcý hesabý oluþtur'u týklatýn.
+
+Ebeveyn Denetimleri altýnda, Açýk, geçerli ayarlarý uygula'yý týklatýn.
+
+Çocuðunuzun standart kullanýcý hesabý için Ebeveyn Denetimleri’ni etkinleþtirdikten sonra, aþaðýdaki ayarlardan denetlemek istediklerinizi belirleyebilirsiniz:
+
+Zaman sýnýrlarý. Çocuklarýn bilgisayarda oturum açabilecekleri zamanlarý denetlemek için zaman sýnýrlarý belirleyebilirsiniz. Zaman sýnýrlarý, 
+çocuklarýn belirli saatlerde oturum açmasýný önler. Haftanýn her günü için farklý oturum açma saatleri ayarlayabilirsiniz. Kendilerine ayrýlan zaman sona erdiðinde
+ oturum açmýþ durumdaysalar, oturumlarý otomatik olarak kapatýlýr. Daha fazla bilgi için bkz. Çocuklarýn bilgisayarý ne zaman kullanabileceðini denetleme. 
+
+Oyunlar. Oyunlara eriþimi denetleyebilir, yaþ derecelendirme düzeyi belirleyebilir, engellemek istediðiniz içerik türlerini seçebilir ve derecelendirilmemiþ oyunlarý
+ ya da belirli oyunlarý engelleyeceðinize mi yoksa bunlara izin mi vereceðinize karar verebilirsiniz. Daha fazla bilgi için bkz. Çocuklarýn oynayabileceði oyunlarý
+ belirleme. 
+
+Belirli programlara izin verme veya bunlarý engelleme. Çocuklarýn istemediðiniz programlarý çalýþtýrmasýný önleyebilirsiniz. Daha fazla bilgi için bkz. Çocuklarýn 
+belirli programlarý kullanmasýný önleme.
